@@ -1,6 +1,6 @@
 
 FROM n8nio/n8n:latest
 
-EXPOSE 5678
+EXPOSE 8000
 
 CMD ["n8n", "start"]
